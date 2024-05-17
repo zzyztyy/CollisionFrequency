@@ -145,20 +145,20 @@ Schunk and Nagy（2000）与Houghton（2009）均引用了此表，并成为后�
 
 ## 4 参考文献
 
-[^1]: V.C.A.F. (1954). The Mathematical Theory of Non-uniform Gases. An account of the kinetic theory of viscosity, thermal conduction, and diffusion in gases. By Sydney Chapman and T. G. Cowling. 2nd Edn., pp. ix, 431. 60s. 1952. (Cambridge University Press). The Mathematical Gazette, 38(323), 63–64. doi:10.2307/3609795
+V.C.A.F. (1954). The Mathematical Theory of Non-uniform Gases. An account of the kinetic theory of viscosity, thermal conduction, and diffusion in gases. By Sydney Chapman and T. G. Cowling. 2nd Edn., pp. ix, 431. 60s. 1952. (Cambridge University Press). The Mathematical Gazette, 38(323), 63–64. doi:10.2307/3609795
 
-[^2]: Cowling, T.G. (1945). The electrical conductivity of an ionized gas in a magnetic field, with applications to the solar atmosphere and the ionosphere. Proceedings of the Royal Society of London. Series A. Mathematical and Physical Sciences, 183, 453 - 479.
+Cowling, T.G. (1945). The electrical conductivity of an ionized gas in a magnetic field, with applications to the solar atmosphere and the ionosphere. Proceedings of the Royal Society of London. Series A. Mathematical and Physical Sciences, 183, 453 - 479.
 
-[^3]: Chapman (1956) The Electrical Conductivity of the Ionosphere: a Review.
+Chapman (1956) The Electrical Conductivity of the Ionosphere: a Review.
 
-[^4]: Dalgarno, A., Mcdowell, M.R., & Williams, A.F. (1958). The mobilities of ions in unlike gases. Philosophical Transactions of the Royal Society of London. Series A, Mathematical and Physical Sciences, 250, 411 - 425.
+Dalgarno, A., Mcdowell, M.R., & Williams, A.F. (1958). The mobilities of ions in unlike gases. Philosophical Transactions of the Royal Society of London. Series A, Mathematical and Physical Sciences, 250, 411 - 425.
 
-[^5]: Rishbeth, H., & Garriott, O.K. (1969). Introduction to ionospheric physics.
+Rishbeth, H., & Garriott, O.K. (1969). Introduction to ionospheric physics.
 
-[^6]: Schunk, R. W., and A. F. Nagy (1980), Ionospheres of the terrestrial planets, Rev. Geophys., 18(4), 813–852, doi:10.1029/RG018i004p00813.
+Schunk, R. W., and A. F. Nagy (1980), Ionospheres of the terrestrial planets, Rev. Geophys., 18(4), 813–852, doi:10.1029/RG018i004p00813.
 
-[^7]: Kelley, M. C. (1989), The Earth's Ionosphere, Int. Geophys. Ser., vol. 43, Elsevier, New York.
+Kelley, M. C. (1989), The Earth's Ionosphere, Int. Geophys. Ser., vol. 43, Elsevier, New York.
 
-[^8]: Schunk, R.W., & Nagy, A.F. (2000). Ionospheres : physics, plasma physics, and chemistry.
+Schunk, R.W., & Nagy, A.F. (2000). Ionospheres : physics, plasma physics, and chemistry.
 
-[^9]: Houghton（2009）Ionospheres：Physics, Plasma Physics, and Chemistry
+Houghton（2009）Ionospheres：Physics, Plasma Physics, and Chemistry
